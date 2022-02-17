@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "620d6419f53de725bcfbe907"
+  },
+  "tipos": [
+    "IMPRIMIR",
+    "BARNIZAR",
+    "EMPAREJAR",
+    "CORTAR",
+    "REVISAR Y ENFAJILLAR"
+  ],
+  "nombre": "Etiquetas Corte Recto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620d643bf53de725bcfbe908"
+  },
+  "tipos": [
+    "IMPRIMIR",
+    "BARNIZAR",
+    "EMPAREJAR",
+    "TROQUELAR"
+  ],
+  "nombre": "Etiquetas Troqueladas",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620d64bbf53de725bcfbe909"
+  },
+  "tipos": [
+    "IMPRIMIR",
+    "EMPAREJAR",
+    "TROQUELAR"
+  ],
+  "nombre": "Etiquetas s/Barniz",
+  "__v": 0
+}]

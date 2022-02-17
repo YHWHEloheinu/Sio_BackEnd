@@ -1,0 +1,1429 @@
+[{
+  "_id": {
+    "$oid": "61fd2912d9115415a4416ee4"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "CARTON REV. BLANCO",
+  "marca": "CHINO",
+  "ancho": 69,
+  "largo": 89,
+  "gramaje": 271,
+  "calibre": 16,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T13:24:34.970Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd298ad9115415a4416ee6"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "CARTON REV.GRIS",
+  "marca": "TRIPLEX GRIS",
+  "ancho": 64,
+  "largo": 82,
+  "gramaje": 300,
+  "calibre": 16,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T13:26:34.677Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd2c79d9115415a4416ee8"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "CARTON REV.BLANCO",
+  "marca": "INTERPACK",
+  "ancho": 70,
+  "largo": 100,
+  "gramaje": 320,
+  "calibre": 16,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T13:39:05.351Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd2d53d9115415a4416eea"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "CARTON REV. GRIS",
+  "marca": "MCM",
+  "ancho": 95,
+  "largo": 70,
+  "gramaje": 300,
+  "calibre": 16,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T13:42:43.745Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd2e1ed9115415a4416eec"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "CARTON REV. GRIS",
+  "marca": "MCM",
+  "ancho": 69,
+  "largo": 91,
+  "gramaje": 350,
+  "calibre": 19,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T13:46:06.849Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd2e59d9115415a4416eee"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "CARTON REV. GRIS",
+  "marca": "MCM",
+  "ancho": 90,
+  "largo": 60,
+  "gramaje": 350,
+  "calibre": 19,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T13:47:05.635Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd2e91d9115415a4416ef0"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "CARTON REV. GRIS",
+  "marca": "MCM",
+  "ancho": 99,
+  "largo": 70,
+  "gramaje": 350,
+  "calibre": 19,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T13:48:01.333Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd2eeed9115415a4416ef2"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "CARTON REV.GRIS",
+  "marca": "MCM",
+  "ancho": 90,
+  "largo": 60,
+  "gramaje": 400,
+  "calibre": 22,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T13:49:34.921Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd34a4d9115415a4416ef7"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "CARTON REV. GRIS",
+  "marca": "TRIPLEX GRIS",
+  "ancho": 64,
+  "largo": 82,
+  "gramaje": 300,
+  "calibre": 16,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T14:13:56.071Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd3506d9115415a4416ef9"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "CARTON REV. BLANCO",
+  "marca": "INTERPACK",
+  "ancho": 70,
+  "largo": 100,
+  "gramaje": 320,
+  "calibre": 16,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T14:15:34.286Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd354fd9115415a4416efb"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "CARTON REV. GRIS",
+  "marca": "MCM",
+  "ancho": 90,
+  "largo": 60,
+  "gramaje": 400,
+  "calibre": 22,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T14:16:47.571Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd3d4ed9115415a4416efd"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "LITHO",
+  "marca": "B&B",
+  "ancho": 72,
+  "largo": 102,
+  "gramaje": 70,
+  "calibre": 64,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T14:50:54.071Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd3dced9115415a4416eff"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "LITHO",
+  "marca": "S/M",
+  "ancho": 59.2,
+  "largo": 93,
+  "gramaje": 88,
+  "calibre": 74,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T14:53:02.939Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd3fe3d9115415a4416f01"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "LITHO",
+  "marca": "S/M",
+  "ancho": 65,
+  "largo": 91,
+  "gramaje": 90,
+  "calibre": 75,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T15:01:55.793Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd401ad9115415a4416f03"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "LITHO",
+  "marca": "S/M",
+  "ancho": 65,
+  "largo": 41,
+  "gramaje": 90,
+  "calibre": 75,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T15:02:50.455Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd4204d9115415a4416f05"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "LITHO",
+  "marca": "S/M",
+  "ancho": 62,
+  "largo": 101.5,
+  "gramaje": 90,
+  "calibre": 75,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T15:11:00.741Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd4d0cd9115415a4416f07"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "METALIZADO",
+  "marca": "METALVAC",
+  "ancho": 72,
+  "largo": 100,
+  "gramaje": 70,
+  "calibre": 70,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T15:58:04.997Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd4fbfd9115415a4416f09"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "CARTON ",
+  "marca": "MCM",
+  "ancho": 66,
+  "largo": 82,
+  "gramaje": 300,
+  "calibre": 16,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T16:09:35.719Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd50c2d9115415a4416f0b"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "LITHO",
+  "marca": "NIKLASELECT (B&B)",
+  "ancho": 73,
+  "largo": 102,
+  "gramaje": 90,
+  "calibre": 75,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T16:13:54.654Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd51d7d9115415a4416f0d"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "LITHO",
+  "marca": "NIKLASELECT",
+  "ancho": 73,
+  "largo": 92,
+  "gramaje": 90,
+  "calibre": 75,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T16:18:31.370Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd534dd9115415a4416f10"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "CARTON REV. GRIS ",
+  "marca": "MCM",
+  "ancho": 66,
+  "largo": 82,
+  "gramaje": 300,
+  "calibre": 16,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T16:24:45.294Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd53c3d9115415a4416f13"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "LITHO",
+  "marca": "NIKLASELECT (B&B)",
+  "ancho": 70,
+  "largo": 92,
+  "gramaje": 90,
+  "calibre": 75,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T16:26:43.991Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd5419d9115415a4416f15"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61f92a1f2126d717f004cca6"
+  },
+  "nombre": "LITHO",
+  "marca": "NIKLASELECT (B&B)",
+  "ancho": 73,
+  "largo": 88,
+  "gramaje": 90,
+  "calibre": 75,
+  "unidad": "Und",
+  "presentacion": "PALETA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T16:28:09.908Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd54e2d9115415a4416f18"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "AMARILLO PROCESO",
+  "marca": "OLIN",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 1.9,
+  "fecha": {
+    "$date": "2022-02-04T16:31:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd56c2d9115415a4416f1a"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "TINTA AMARILLO PROCESO ",
+  "marca": "HUBER (RAPIDA)",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 2.5,
+  "fecha": {
+    "$date": "2022-02-04T16:39:30.093Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd56eed9115415a4416f1d"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "AMARILLO PROCESO",
+  "marca": "HUBER (RAPIDA)",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 2.5,
+  "fecha": {
+    "$date": "2022-02-04T16:40:14.828Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd5760d9115415a4416f1f"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "AMARILLO PROCESO",
+  "marca": "M.A.",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 2.5,
+  "fecha": {
+    "$date": "2022-02-04T16:42:08.842Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd595bd9115415a4416f21"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "AMARILLO PROCESO",
+  "marca": "HAIYAN HUADA",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T16:50:35.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd59c3d9115415a4416f24"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "AMARILLO PROCESO",
+  "marca": "HD-MA ",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T16:52:19.097Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd59e6d9115415a4416f26"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "AZUL PROCESO",
+  "marca": "OLIN",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 2.5,
+  "fecha": {
+    "$date": "2022-02-04T16:52:54.458Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd5a02d9115415a4416f28"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "AZUL PROCESO",
+  "marca": "M.A.",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 2.5,
+  "fecha": {
+    "$date": "2022-02-04T16:53:22.987Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd5a34d9115415a4416f2a"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "AZUL PROCESO",
+  "marca": "HD-MA",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T16:54:12.642Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd5cfcd9115415a4416f2c"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "MAGENTA PROCESO",
+  "marca": "OLIN",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 1.9,
+  "fecha": {
+    "$date": "2022-02-04T17:06:04.961Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd5d14d9115415a4416f2e"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "MAGENTA PROCESO",
+  "marca": "M.A.",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 2.5,
+  "fecha": {
+    "$date": "2022-02-04T17:06:28.566Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd5e9dd9115415a4416f30"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "MAGENTA PROCESO",
+  "marca": "NEW COLOR",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T17:13:01.431Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd5edbd9115415a4416f32"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "NEGRO PROCESO",
+  "marca": "HD-MA",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T17:14:03.988Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd5ef9d9115415a4416f34"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "NEGRO PROCESO",
+  "marca": "M.A.",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 2.5,
+  "fecha": {
+    "$date": "2022-02-04T17:14:33.869Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd5f2cd9115415a4416f36"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "BLANCO OPACO",
+  "marca": "HUADA",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 1.5,
+  "fecha": {
+    "$date": "2022-02-04T17:15:24.540Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd5f55d9115415a4416f38"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "BLANCO OPACO",
+  "marca": "OLIN",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 1.9,
+  "fecha": {
+    "$date": "2022-02-04T17:16:05.930Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd5fb8d9115415a4416f3a"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "BARNIZ  S/IMPRESION ALTO BRILLO",
+  "marca": "HUADA",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 2,
+  "fecha": {
+    "$date": "2022-02-04T17:17:44.589Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd601cd9115415a4416f3d"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "BARNIZ S/IMPRESION ALTO BRILLO",
+  "marca": "HUADA",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 2,
+  "fecha": {
+    "$date": "2022-02-04T17:19:24.259Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd606ed9115415a4416f40"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "VIOLETA PANTONE",
+  "marca": "OLIN",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "ENVASE",
+  "neto": 3.5,
+  "fecha": {
+    "$date": "2022-02-04T17:20:46.330Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd60afd9115415a4416f43"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "AMARILLO PROCESO",
+  "marca": "OLIN",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "ENVASE PLASTICO",
+  "neto": 1.9,
+  "fecha": {
+    "$date": "2022-02-04T17:21:51.962Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd60ddd9115415a4416f46"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "MAGENTA PROCESO",
+  "marca": "OLIN",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "ENVASE PLASTICO",
+  "neto": 1.9,
+  "fecha": {
+    "$date": "2022-02-04T17:22:37.752Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd6104d9115415a4416f49"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "VIOLETA PANTONE",
+  "marca": "OLIN",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "ENVASE PLASTICO",
+  "neto": 3.5,
+  "fecha": {
+    "$date": "2022-02-04T17:23:16.835Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd6145d9115415a4416f4b"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "AMARILLO OSCURO MAVESA",
+  "marca": "OLIN",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "ENVASE PLASTICO",
+  "neto": 1.9,
+  "fecha": {
+    "$date": "2022-02-04T17:24:21.274Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd6167d9115415a4416f4d"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "AMARILLO FONDO MAVESA",
+  "marca": "OLIN",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "ENVASE PLASTICO",
+  "neto": 1.9,
+  "fecha": {
+    "$date": "2022-02-04T17:24:55.632Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd6192d9115415a4416f4f"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "BLANCO TRANSPARENTE",
+  "marca": "HUADA",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T17:25:38.622Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd61bfd9115415a4416f51"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "ROJO FUEGO",
+  "marca": "HUADA",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T17:26:23.117Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd61d7d9115415a4416f53"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "ROJO RUBINE",
+  "marca": "ARZUBIALDE",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T17:26:47.405Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd61f9d9115415a4416f55"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "ORO",
+  "marca": "HUBER",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 1.5,
+  "fecha": {
+    "$date": "2022-02-04T17:27:21.030Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd6235d9115415a4416f57"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "BARNIZ S/IMP ALTO BRILLO",
+  "marca": "HUADA",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 2,
+  "fecha": {
+    "$date": "2022-02-04T17:28:21.118Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd625ed9115415a4416f5a"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "BARNIZ S/IMP ALTO BRILLO",
+  "marca": "HUADA",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 2,
+  "fecha": {
+    "$date": "2022-02-04T17:29:02.438Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd62acd9115415a4416f5d"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61fd54e2d9115415a4416f17"
+  },
+  "nombre": "CINTA DE EMBALAJE CORRUGADO RECICLADO 3430",
+  "marca": "RELA",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Und",
+  "presentacion": "ROLLO 48MMX100MTS",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T17:30:20.264Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd6300d9115415a4416f61"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd6300d9115415a4416f60"
+  },
+  "nombre": "BARNIZ S/IMP ALTO BRILLO",
+  "marca": "HUADA",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "LATA",
+  "neto": 2,
+  "fecha": {
+    "$date": "2022-02-04T17:31:44.458Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd63a2d9115415a4416f63"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd6300d9115415a4416f60"
+  },
+  "nombre": "BARNIZ ACUOSO ALTO BRILLO",
+  "marca": "PRISCO",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "L",
+  "presentacion": "TAMBOR PLASTICO",
+  "neto": 217.72,
+  "fecha": {
+    "$date": "2022-02-04T17:34:26.768Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd721fd9115415a4416f66"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd721fd9115415a4416f65"
+  },
+  "nombre": "CINTA DE EMBALAJE CORRUGADO RECICLADO 3430",
+  "marca": "RELA",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Und",
+  "presentacion": "ROLLO DE 48mm X 100m",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T18:36:15.400Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd72ecd9115415a4416f69"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd72ecd9115415a4416f68"
+  },
+  "nombre": "PEGA ALTA VISCOCIDAD 104 HV 15P",
+  "marca": "PEGADHEX ",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "CUÑETE",
+  "neto": 20,
+  "fecha": {
+    "$date": "2022-02-04T18:39:40.817Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd7322d9115415a4416f6b"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61fd72ecd9115415a4416f68"
+  },
+  "nombre": "PEGA BAJA VISCOCIDAD 104LV 15P",
+  "marca": "PEGADHEX",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "CUÑETE",
+  "neto": 20,
+  "fecha": {
+    "$date": "2022-02-04T18:40:34.397Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd7747d9115415a4416f6f"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61fd72ecd9115415a4416f68"
+  },
+  "nombre": "PEGA BAJA VISCOCIDAD 104 LV HP",
+  "marca": "PEGADHEX",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "CUÑETE",
+  "neto": 20,
+  "fecha": {
+    "$date": "2022-02-04T18:58:15.769Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd77c7d9115415a4416f72"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd72ecd9115415a4416f68"
+  },
+  "nombre": "PEGA BAJA VISCOCIDAD 104 LV 15P",
+  "marca": "PEGADHEX",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Kg",
+  "presentacion": "CUÑETE",
+  "neto": 20,
+  "fecha": {
+    "$date": "2022-02-04T19:00:23.520Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd7a8ed9115415a4416f75"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61fd7a8ed9115415a4416f74"
+  },
+  "nombre": "N° 10",
+  "marca": "CARTOFORMAS VZLANAS",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Und",
+  "presentacion": "350X320X150",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T19:12:14.741Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd7aefd9115415a4416f78"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd7a8ed9115415a4416f74"
+  },
+  "nombre": "N° 10",
+  "marca": "CARTOFORMAS VZLANAS.",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Und",
+  "presentacion": "BULTO",
+  "neto": 25,
+  "fecha": {
+    "$date": "2022-02-04T19:13:51.752Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd7b70d9115415a4416f7a"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61fd7a8ed9115415a4416f74"
+  },
+  "nombre": "N° 11",
+  "marca": "CARTOFORMAS VZLANAS",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Und",
+  "presentacion": "420X245X170 C-6",
+  "neto": 1,
+  "fecha": {
+    "$date": "2022-02-04T19:16:00.603Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62010e99d9115415a4416f7c"
+  },
+  "eliminado": true,
+  "grupo": {
+    "$oid": "61fd7a8ed9115415a4416f74"
+  },
+  "nombre": "N° 12",
+  "marca": "CARTOFORMAS VNZOLANAS",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Und",
+  "presentacion": "BULTOS",
+  "neto": 25,
+  "fecha": {
+    "$date": "2022-02-07T12:20:41.197Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62010ef8d9115415a4416f7f"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd7a8ed9115415a4416f74"
+  },
+  "nombre": "N° 12",
+  "marca": "CARTOFORMAS VZLANAS",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Und",
+  "presentacion": "BULTO",
+  "neto": 25,
+  "fecha": {
+    "$date": "2022-02-07T12:22:16.537Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62010f2fd9115415a4416f81"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd7a8ed9115415a4416f74"
+  },
+  "nombre": "N° 13",
+  "marca": "CARTOFORMAS VZLANAS",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Und",
+  "presentacion": "BULTO",
+  "neto": 25,
+  "fecha": {
+    "$date": "2022-02-07T12:23:11.362Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62010f64d9115415a4416f83"
+  },
+  "eliminado": false,
+  "grupo": {
+    "$oid": "61fd7a8ed9115415a4416f74"
+  },
+  "nombre": "N° 14",
+  "marca": "CARTOFORMAS VZLANAS",
+  "ancho": null,
+  "largo": null,
+  "gramaje": null,
+  "calibre": null,
+  "unidad": "Und",
+  "presentacion": "BULTO",
+  "neto": 20,
+  "fecha": {
+    "$date": "2022-02-07T12:24:04.492Z"
+  },
+  "__v": 0
+}]

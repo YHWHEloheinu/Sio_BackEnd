@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "620d53d1f53de725bcfbe8f2"
+  },
+  "nombre": "Roland 700",
+  "tipo": "IMPRIMIR",
+  "colores": 5,
+  "cph": 4500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620d53eaf53de725bcfbe8f3"
+  },
+  "nombre": "Roland Rekord",
+  "tipo": "IMPRIMIR",
+  "colores": 4,
+  "cph": 4000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620d5422f53de725bcfbe8f4"
+  },
+  "nombre": "Roland Rekord",
+  "tipo": "BARNIZAR",
+  "colores": null,
+  "cph": 3000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620d5441f53de725bcfbe8f5"
+  },
+  "nombre": "Roland 700",
+  "tipo": "BARNIZAR",
+  "colores": null,
+  "cph": 4500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620d5473f53de725bcfbe8f6"
+  },
+  "nombre": "Bobst Novacut 106",
+  "tipo": "TROQUELAR",
+  "colores": null,
+  "cph": 4000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620d62b7f53de725bcfbe8ff"
+  },
+  "nombre": "Polar  Morh RA-4",
+  "tipo": "EMPAREJAR",
+  "colores": null,
+  "cph": 25000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620d62d7f53de725bcfbe900"
+  },
+  "nombre": "Polar Morh 137 X",
+  "tipo": "CORTAR",
+  "colores": null,
+  "cph": 350000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620d62ecf53de725bcfbe901"
+  },
+  "nombre": "Polar Morh 115 EMC",
+  "tipo": "CORTAR",
+  "colores": null,
+  "cph": 300000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620d6301f53de725bcfbe902"
+  },
+  "nombre": "Polar Label System DC-11",
+  "tipo": "TROQUELAR",
+  "colores": null,
+  "cph": 260000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620d6319f53de725bcfbe903"
+  },
+  "nombre": "Bobst Ambition",
+  "tipo": "DOBLAR Y PEGAR",
+  "colores": null,
+  "cph": 2500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620d632af53de725bcfbe904"
+  },
+  "nombre": "Anter 520",
+  "tipo": "DOBLAR Y PEGAR",
+  "colores": null,
+  "cph": 1500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620d635af53de725bcfbe905"
+  },
+  "nombre": "Proceso de Revisión",
+  "tipo": "REVISAR Y ENFAJILLAR",
+  "colores": null,
+  "cph": 65000,
+  "__v": 0
+}]

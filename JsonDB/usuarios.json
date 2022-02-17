@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6193b463f317831fbc54e613"
+  },
+  "Role": "Desarrollador",
+  "estado": true,
+  "Departamento": "Desarrollo",
+  "Nombre": "administrador",
+  "Apellido": "Administrador",
+  "Correo": "admin",
+  "Password": "$2b$10$.8VFcoErFnp29b0TyPBpnuBdgdBIK10IlD.RR2l8KYDRHIpTf6Ugq",
+  "__v": 0
+}]

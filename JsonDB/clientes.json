@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "61e1a6d8d877391ca86da558"
+  },
+  "nombre": "Alfonzo Rivas & Cia",
+  "codigo": "AR",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ebff8492f8d31d5cd3979c"
+  },
+  "nombre": "Alimentos Heinz, C.A.",
+  "codigo": "AH",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620d6526f53de725bcfbe90a"
+  },
+  "nombre": "Alimentos Polar Comercial C.A.",
+  "codigo": "AP",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620d6548f53de725bcfbe90b"
+  },
+  "nombre": "Cervecería Polar, C.A.",
+  "codigo": "PL",
+  "__v": 0
+}]

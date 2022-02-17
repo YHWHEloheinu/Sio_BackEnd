@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "61fd76bbd9115415a4416f6e"
+  },
+  "material": {
+    "$oid": "61fd6167d9115415a4416f4d"
+  },
+  "codigo": "0",
+  "lote": "0",
+  "cantidad": "0",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620cfa84e05ef02734339eda"
+  },
+  "material": {
+    "$oid": "61fd2912d9115415a4416ee4"
+  },
+  "codigo": "123",
+  "lote": "123",
+  "cantidad": "0",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620cfd8d92fc0c1a24b71c64"
+  },
+  "material": {
+    "$oid": "61fd6300d9115415a4416f61"
+  },
+  "codigo": "123",
+  "lote": "123",
+  "cantidad": "0",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620e33b8f53de725bcfbe90c"
+  },
+  "material": {
+    "$oid": "61fd2912d9115415a4416ee4"
+  },
+  "codigo": "S/N",
+  "lote": "S/N",
+  "cantidad": "300",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620e380ef53de725bcfbe90d"
+  },
+  "material": {
+    "$oid": "61fd34a4d9115415a4416ef7"
+  },
+  "codigo": "21012-1",
+  "lote": "01212808208370",
+  "cantidad": "1659",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620e383df53de725bcfbe90e"
+  },
+  "material": {
+    "$oid": "61fd34a4d9115415a4416ef7"
+  },
+  "codigo": "21012-2",
+  "lote": "01212808208370",
+  "cantidad": "1400",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620e4025f53de725bcfbe90f"
+  },
+  "material": {
+    "$oid": "61fd2d53d9115415a4416eea"
+  },
+  "codigo": "27",
+  "lote": "2023490",
+  "cantidad": "2372",
+  "__v": 0
+}]
